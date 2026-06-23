@@ -1,5 +1,5 @@
 # B2B Customer Health & Churn Prediction Dashboard
-
+![Dashboard](dashboard.jpg)
 ## Overview
 An AI-powered B2B SaaS customer churn prediction and health scoring project built using Python, Pandas, Scikit-learn, and Power BI.
 
